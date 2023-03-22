@@ -23,6 +23,7 @@
 
 문제를 파이썬으로 작성하면 다음과 같다.
 
+change.py
 ```python
 n = 1260
 count = 0
