@@ -23,8 +23,9 @@
 
 문제를 파이썬으로 작성하면 다음과 같다.
 
-change.py
 ```python
+# change.py 참조
+
 n = 1260
 count = 0
 
